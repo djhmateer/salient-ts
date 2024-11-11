@@ -28,7 +28,7 @@ export function Hero() {
         Human Rights
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-       I help organisations with technical problems and setting up systems eg automatically archive materials on YouTube, Facebook, TikTok, X, VK, Instagram to prove 
+       I help human rights organisations with technical problems and setting up systems eg automatically archive materials on YouTube, Facebook, TikTok, X, VK, Instagram
       </p>
 
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
