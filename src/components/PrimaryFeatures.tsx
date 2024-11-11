@@ -76,14 +76,13 @@ export function PrimaryFeatures() {
       <Container className="relative">
         <div className="max-w-2xl md:mx-auto md:text-center xl:max-w-none">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl md:text-5xl">
-            Everything you need to run your books.
+            Technical Knowledge you need to run your business.
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            Well everything you need if you aren’t that picky about minor
-            details like tax compliance.
+           Technical support (someone to talk to!), hosted auto-archiving, email systems, Google Spreadsheets, Integrations between systems, custom websites.
           </p>
         </div>
-        <TabGroup
+        {/* <TabGroup
           className="mt-16 grid grid-cols-1 items-center gap-y-2 pt-10 sm:gap-y-6 md:mt-20 lg:grid-cols-12 lg:pt-0"
           vertical={tabOrientation === 'vertical'}
         >
@@ -151,7 +150,7 @@ export function PrimaryFeatures() {
               </TabPanels>
             </>
           )}
-        </TabGroup>
+        </TabGroup> */}
       </Container>
     </section>
   )
